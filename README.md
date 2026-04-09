@@ -9,4 +9,5 @@
 * [Week 3: 다이오드 특성 분석 및 RC 회로를 이용한 파형 성형](./Lab02_Diode%20Characteristic)
 * [Week 4: 다이오드 리미팅 회로 분석](./Lab03_Limiting%20Circuits)
 * [Week 5: Full Wave Rectifier](./Lab04_Full%20Wave%20Rectifier)
-* [Week 6: 다음 실습 주제] (예정)
+* [Week 6: Bipolar Junction Transistor](./Lab05_BJT)
+* [Week 7: 다음 실습 주제] (예정)
