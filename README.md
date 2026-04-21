@@ -11,5 +11,5 @@
 * [Week 5: Full Wave Rectifier](./Lab04_Full%20Wave%20Rectifier)
 * [Week 6: Bipolar Junction Transistor](./Lab05_BJT)
 * [Week 7: Bipolar Junction Transistor(2)](./Lab06_BJT2)
-* [Week 8: 다음 실습 주제] (예정)
+* [Week 8: Bipolar Junction Transistor(3)](./Lab07_BJT3)
 * [Week 9: 다음 실습 주제] (예정)
