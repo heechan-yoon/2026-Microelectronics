@@ -34,8 +34,6 @@
 
 ### 📷 실험 사진
 
-> 아래 이미지 링크는 GitHub에 업로드한 후 교체하면 됨.
-
 <img width="500" height="500" alt="실험1회로도" src="https://github.com/user-attachments/assets/33df5e6a-6e3f-454d-a3fd-fa19ddcf693f" />
 
 <img width="500" height="500" alt="0" src="https://github.com/user-attachments/assets/9349923b-9fd7-46b1-8796-b2620ad4adc6" />
