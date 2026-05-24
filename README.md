@@ -13,4 +13,5 @@
 * [Week 7: Bipolar Junction Transistor(2)](./Lab06_BJT2)
 * [Week 9: Bipolar Junction Transistor(3)](./Lab07_BJT3)
 * [Week 11: MOSFET(1)](./lab08)
-* [Week 12: 다음 실습 주제] (예정)
+* [Week 12: MOSFET(2)](./lab09)
+* [Week 13: 다음 실습 주제] (예정)
