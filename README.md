@@ -15,4 +15,4 @@
 * [Week 11: MOSFET(1)](./lab08)
 * [Week 12: MOSFET(2)](./lab09)
 * [Week 13: MOSFET(3)](./lab10)
-* [Week 14: 다음 실습 주제] (예정)
+* [Week 14: OP Amp Differentiator 및 Integrator 회로 분석](./lab11)
